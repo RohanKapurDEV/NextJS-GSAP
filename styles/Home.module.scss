@@ -1,0 +1,12 @@
+.text {
+  font-size: 5rem;
+  position: absolute;
+  pointer-events: none;
+  -webkit-text-stroke: 0.6px #ffffff;
+  text-transform: uppercase;
+  color: #181818;
+
+  span {
+    color: white;
+  }
+}

@@ -1,0 +1,18 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+
+  background-color: #181818;
+  font-family: "Wotfard-Regular";
+  color: white;
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: "Wotfard-Regular";
+  src: url("/fonts/Wotfard/wotfard-regular-webfont.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
